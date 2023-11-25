@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=4AFFA0&center=true&width=435&lines=Welcome+to+Ritesh's+repo....)](https://git.io/typing-svg)
-
 <p align="left"> 
    <img align = "right" src="https://komarev.com/ghpvc/?username=Ritesh-Tamboli&label=Profile%20views&color=0e75b6&style=flat" alt="Ritesh-profile-views" /> 
 </p> 
@@ -50,10 +48,6 @@ I am a Enthusiastic Programmer and highly curious about tech.
 <br/>
 
 <h3 align="left">Github Stats :</h3>
-<p align="left">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh231&show_icons=true&hide=contribs)](https://github.com/Ritesh231)
-
-</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ritesh231&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub stats" />
 </p>
