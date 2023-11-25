@@ -51,9 +51,8 @@ I am a Enthusiastic Programmer and highly curious about tech.
 
 <h3 align="left">Github Stats :</h3>
 <p align="left">
-  <a href="https://streak-stats.demolab.com/?user=Ritesh231&theme=tokyonight" target="_blank" rel="noreferrer">
-    <img src="https://streak-stats.demolab.com/?user=Ritesh231&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh231&show_icons=true&hide=contribs)](https://github.com/Ritesh231)
+
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ritesh231&show_icons=true&theme=tokyonight" alt="Ritesh's GitHub stats" />
@@ -70,10 +69,6 @@ I am a Enthusiastic Programmer and highly curious about tech.
 <a href="https://www.hackerrank.com/profile/ritesh_tamboli20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ritesh-hackerrank" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/ritesh120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ritesh-leetcode" height="30" width="40" />
-</a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ritesh-GFG" height="30" width="40" />
-</a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ritesh-GFG" height="30" width="40" />
 </a>
 </p>
 
